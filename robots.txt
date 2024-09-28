@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onjualgan.github.io/sitemap.html.gz
+Sitemap: https://onjualgan.github.io/app/sitemap.html.gz
+Sitemap: https://onjualgan.github.io/assets/sitemap.html.gz
+Sitemap: https://onjualgan.github.io/css/sitemap.html.gz
+Sitemap: https://onjualgan.github.io/data/sitemap.html.gz
+Sitemap: https://onjualgan.github.io/includes/sitemap.html.gz
+Sitemap: https://onjualgan.github.io/item/sitemap.html.gz
+Sitemap: https://onjualgan.github.io/src/sitemap.html.gz
